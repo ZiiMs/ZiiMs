@@ -1,5 +1,5 @@
 ## Hi everyone
-### I am [**Alex (ZiiM) Tedesco**](https://github.com/ZiiMs)
+### I am [**Alex (ZiiM) Tedesco**](https://github.com/ZiiMs). Proudly 🇨🇦
 
 ## Currently just doing small hobby projects to grow my portfolio
 
