@@ -1,5 +1,5 @@
 ## Hi everyone
-<h3 id="i-am-alex-ziim-tedescohttpswwwalexandertedescocomtargetblank-proudly-">I am <a href="https://www.alexandertedesco.com/" target="_blank"><strong>Alex (ZiiM) Tedesco</strong></a>. Proudly 🇨🇦</h3>
+### I am [**Alex (ZiiM) Tedesco**](https://www.alexandertedesco.com/). Proudly 🇨🇦
 
 ## Currently just doing small hobby projects to grow my portfolio
 
