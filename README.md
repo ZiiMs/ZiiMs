@@ -1,5 +1,5 @@
 ## Hi everyone
-### I am [**Alex (ZiiM) Tedesco**](https://alexandertedesco.com). Proudly 🇨🇦
+<h3 id="i-am-alex-ziim-tedescohttpswwwalexandertedescocomtargetblank-proudly-">I am <a href="https://www.alexandertedesco.com/" target="_blank"><strong>Alex (ZiiM) Tedesco</strong></a>. Proudly 🇨🇦</h3>
 
 ## Currently just doing small hobby projects to grow my portfolio
 
